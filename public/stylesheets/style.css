@@ -35,7 +35,7 @@ body {
     background-image: url(./Images/new_background.png);
     background-repeat: no-repeat; 
     background-attachment: fixed;  
-    background-size: contain;
+    background-size: cover;
 }
 
 main {
