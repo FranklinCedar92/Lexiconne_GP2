@@ -31,12 +31,12 @@ header h1 {
     text-align: left;
     font-size: 5vw;
 }
-/*body {
+body {
     background-image: url(./Images/new_background.png);
     background-repeat: no-repeat; 
     background-attachment: fixed;  
-    object-fit: contain;
-}*/
+    background-size: contain;
+}
 
 main {
     display: flex;
