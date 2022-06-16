@@ -70,3 +70,7 @@ a:link {
 a:visited {
     color: yellow;
 }
+
+form {
+    padding: 5px;
+}
