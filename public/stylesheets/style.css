@@ -10,7 +10,7 @@ button {
     border-radius: 15px;
 }
 p {
-    color: whitesmoke;
+    color: black;
     font-size: 1.5vw;
 }
 
@@ -19,7 +19,7 @@ ul p {
 }
 
 .text-info {
-    color:rgb(226, 43, 180);
+    color:yellow;
 }
 
 .container {
@@ -35,7 +35,7 @@ body {
     background-image: url(./Images/new_background.png);
     background-repeat: no-repeat; 
     background-attachment: fixed;  
-    /* object-fit: contain; */
+    object-fit: contain;
 }
 
 main {
