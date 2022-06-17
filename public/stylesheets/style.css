@@ -4,6 +4,7 @@
 
 body {
     display: flex;
+    flex-direction: row;
     background-image: url(./Images/new_background.png);
     background-repeat: no-repeat; 
     background-attachment: fixed;  
