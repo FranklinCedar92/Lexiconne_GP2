@@ -43,7 +43,7 @@ form {
 
 input {
     color:blue !important;
-    padding: 2px;
+    margin: 2px 2px 2px 2px;
 }
 
 button {
@@ -51,6 +51,7 @@ button {
     color: whitesmoke;
     border: #0434fc;
     border-radius: 10px;
+    margin: 2px;
 }
 
 p {
