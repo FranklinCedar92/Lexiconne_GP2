@@ -73,16 +73,19 @@ ul p {
 .logAndSign {
     display: flex;
     flex-direction: row;
+    justify-content: left;
 }
 
 .login-form {
     display: flex;
     flex-direction: column;
+    justify-content: left;
 }
 
 .signup-form {
     display: flex;
     flex-direction: column;
+    justify-content: left;
 }
 
 ul {
