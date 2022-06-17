@@ -32,8 +32,8 @@ footer {
     display: flex;
     align-items: flex-end;
     bottom: 0;
-    width: 100%;
-    height: 50px;
+    /*width: 100%;
+    height: 50px;*/
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }  
 
@@ -44,6 +44,7 @@ input {
 button {
     background-color: #0434fc;
     color: whitesmoke;
+    border: #0434fc;
     border-radius: 10px;
 }
 
