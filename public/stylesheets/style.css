@@ -81,7 +81,7 @@ ul p {
 .logAndSign {
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: right;
     align-items: center;
 }
 
