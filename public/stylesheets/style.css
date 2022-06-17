@@ -21,6 +21,13 @@ header h1 {
     font-family: 'Fascinate', cursive;
     text-align: left;
     font-size: 5vw;
+    margin: 5px;
+}
+
+header h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin: 5px;
 }
 
 main {
