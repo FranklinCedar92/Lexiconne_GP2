@@ -75,6 +75,7 @@ ul p {
     display: flex;
     flex-direction: row;
     justify-content: left;
+    align-items: center;
 }
 
 .login-form {
