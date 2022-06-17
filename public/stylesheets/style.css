@@ -26,12 +26,18 @@ ul p {
     color: black;
 }
 
+header {
+    display: flex;
+    flex-direction: column;
+}
+
 header h1 {
     font-family: 'Fascinate', cursive;
     text-align: left;
     font-size: 5vw;
 }
 body {
+    display: flex;
     background-image: url(./Images/new_background.png);
     background-repeat: no-repeat; 
     background-attachment: fixed;  
